@@ -1,1 +1,1 @@
-first School project.
+first School project
